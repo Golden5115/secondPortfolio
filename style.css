@@ -1,0 +1,96 @@
+body{
+    background:  rgb(29, 213, 208, 26%);}
+
+.logo{
+    color: #00E0FF;
+    background-color: #111e45;
+    padding-bottom: 5px;
+}
+
+.logo span{
+  color: #52FF00;
+}
+
+.nav{
+    background-color: #FCFCFC;
+}
+
+.AYOOLA{
+    font-weight: 800;
+    font-size: 40px;
+    width: fit-content;    
+    background:  linear-gradient(180deg, #2BF865 0%, rgba(244, 45, 17, 0.69) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;;
+}
+
+.Image{
+    width: 50%;    
+}
+.picture{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid;
+}
+
+.list-group-item{
+    background-color: transparent;
+}
+.skills{
+    width: 518px;
+}
+
+.sectionD{
+    background-color: #343D68;
+}
+
+.form{
+   width: 50%; 
+}
+
+.toon{
+    width: 50%;   
+}
+
+.control2{
+    height: 170px;
+}
+
+input[type="email"]::placeholder {
+                 
+    /* Firefox, Chrome, Opera */
+    text-align: start;
+}
+
+.sectionF{
+    height: 444px;
+    margin-top: 40px;
+    padding-inline: 40px;
+    padding-top: 20vh;
+    background-color: #343D68;
+}
+.socialImage{
+    gap: 30px;
+}
+
+.github{
+    align-items: center;
+    border: solid;
+    gap: 10px;
+}
+.navi{
+    background-color: #0CFFE2;
+    border-color: #52FF00;
+}
+.smallPicture{
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+h5{
+    border: solid;
+    background-color: aqua;
+}
+
+
